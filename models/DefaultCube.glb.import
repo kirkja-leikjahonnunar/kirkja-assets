@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xkxrystpi28i"
-path="res://.godot/imported/DefaultCube.glb-3db5ffb7ad4b60faa0d80f3f7f045349.scn"
+path="res://.godot/imported/DefaultCube.glb-f312cfbe69d2b4ad856b89ec58bd68a3.scn"
 
 [deps]
 
-source_file="res://kirkja-assets/DefaultCube.glb"
-dest_files=["res://.godot/imported/DefaultCube.glb-3db5ffb7ad4b60faa0d80f3f7f045349.scn"]
+source_file="res://kirkja-assets/models/DefaultCube.glb"
+dest_files=["res://.godot/imported/DefaultCube.glb-f312cfbe69d2b4ad856b89ec58bd68a3.scn"]
 
 [params]
 
