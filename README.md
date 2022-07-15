@@ -1,12 +1,14 @@
-# kirkja-assets
+# Kirkja Assets
+
+The [kirkja-assets](./) is an auxiliary repository of the [kirkja](../kirkja) project. It is the export location for artists, and the import location for programmers.
 
 ## Folder Structure
-- `backgrounds`: Images for sky box and other world environments.
-- `fonts`: Cool free fonts.
-- `materials`: Shaders, textures, and resources to build materials.
-- `models`: Static and animated 3D models using the GLB file format.
-- `sprites`: Images for 2D and particles.
-- `ui`: 9-slice, icons, and other user interface textures.
+- [`backgrounds`](backgrounds): Images for sky box and other world environments.
+- [`fonts`](fonts): Cool free fonts.
+- [`materials`](materials): Shaders, textures, and resources to build materials.
+- [`models`](models): Static and animated 3D models using the GLB file format.
+- [`sprites`](sprites): Images for 2D and particles.
+- [`ui`](ui): 9-slice, icons, and other user interface textures.
 
 ## Acknowledgments
 Any assets pulled from the internet need accompanying text documentation describing the creator, license, and url.
